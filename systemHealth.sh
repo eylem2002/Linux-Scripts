@@ -5,6 +5,7 @@ check_disk_space() {
     echo "Disk Space:"
     df -h
     echo "----------------------"
+
 }
 
 #memory usage information
